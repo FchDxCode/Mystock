@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+env/
+virtualenv/
+ 
+# Bytecode
+*.pyc
+*.pyo
+__pycache__/
+ 
+# Database migrations (jika menggunakan SQLAlchemy)
+migrations/
+ 
+# Environment variables (jika menggunakan file environment)
+.env
